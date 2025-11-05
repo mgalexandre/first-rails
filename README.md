@@ -12,6 +12,7 @@ top
 * System dependencies
 nice
 * Configuration
+smibidi
 
 real
 rail me boss
